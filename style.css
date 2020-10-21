@@ -1,0 +1,33 @@
+
+h1{
+    color:brown;
+}
+
+.head{
+    background-color: chartreuse;
+}
+
+.menu{
+    background-color: gold;
+    display:flex;
+    justify-content: flex-end;
+}
+
+.item{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: lightseagreen;
+    text-align: center;
+}
+.foot{
+    display:flex;
+    justify-content: flex-end;
+    background-color: mediumvioletred;
+}
+
+.sub{
+    text-align: center;
+    background-color:palegreen;
+}
+
